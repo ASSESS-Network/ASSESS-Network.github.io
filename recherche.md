@@ -9,4 +9,7 @@ Les évolutions récentes en informatique ont permis de développer des approche
 
 **Réseaux français sur la simulation à base d'agents**
 * [Réseau MAPS](https://maps.hypotheses.org/): Réseau thématique de modélisation multi-agents appliquée aux phénomènes spatialisés
-* [Réseau MISS-ABMS](https://www.agropolis.org/miss-abms/): Multi-platform International Summer School on Agent-Based Modelling & Simulation for Renewable Resources Management
+
+**Formations récurrentes en France en lien avec la modélisation à base d'agents** 
+* [Formation MISS-ABMS](https://www.agropolis.org/miss-abms/): Multi-platform International Summer School on Agent-Based Modelling & Simulation for Renewable Resources Management
+* [École chercheurs modélisation eX Modelo](https://exmodelo.org/): Exploration des modèles de simulation
