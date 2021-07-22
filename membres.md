@@ -6,9 +6,18 @@ subtitle: membres du réseau ASSESS
 
 | Nom	        |     Prénom     |      Institution |
 | :------------ | :-------------: | :-------------: |
-| Taillandier       |     Patrick     |        INRAE, UR MIAT |
+| Bonté        |     Bruno      |         INRAE, UMR G-EAU |
+| Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
+| Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
+| Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Gaudou        |     Benoit      |         Université Toulouse 1, UMR IRIT |
-| Bonté        |     Bruno      |         INRAE, UMR G-EAU |
+| Grillot       |     Myriam     |        INRAE, UMR AGIR |
+| Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
-| Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
+| Piou       |     Cyril     |        CIRAD, UMR CBGP |
+| Sicard       |     Vianney     |        INRAE, URM BIOEPAR |
+| Taillandier       |     Franck     |        INRAE, URM RECOVER |
+| Taillandier       |     Patrick     |        INRAE, UR MIAT |
+| Therond       |     Olivier     |        INRAE, UMR LAE |
+| Verstaevel       |     Nicolas     |        Université Toulouse 1 Capitole, UMR IRIT |
