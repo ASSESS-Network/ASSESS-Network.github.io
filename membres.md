@@ -8,6 +8,7 @@ subtitle: membres du réseau ASSESS
 | :------------ | :-------------: | :-------------: |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
+| Couture       |     Stéphane     |        INRAE, UR MIAT |
 | Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
 | Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
