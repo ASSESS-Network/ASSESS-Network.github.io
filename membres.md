@@ -14,6 +14,7 @@ subtitle: membres du réseau ASSESS
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Gaudou        |     Benoit      |         Université Toulouse 1, UMR IRIT |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
+| Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
