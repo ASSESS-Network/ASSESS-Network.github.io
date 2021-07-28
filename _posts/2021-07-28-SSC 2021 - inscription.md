@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSC 2021
+title: SSC 2021 - inscription
 subtitle: Social Simulation Conference
 cover-img: /assets/img/SSC2021_logo_new_2021-01-27.png
 thumbnail-img: /assets/img/SSC2021_logo_new_2021-01-27.png
