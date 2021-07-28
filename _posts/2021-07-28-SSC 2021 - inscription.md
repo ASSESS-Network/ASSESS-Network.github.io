@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/SSC2021_logo_new_2021-01-27.png
 tags: [SSC conférence]
 ---
 
-L'inscription pour la conférence SSC est maintenant ouverte (inscription *gratuite*) : + [page d'inscription](https://ssc2021.uek.krakow.pl/registration/)
+L'inscription pour la conférence SSC est maintenant ouverte (inscription *gratuite*) : [page d'inscription](https://ssc2021.uek.krakow.pl/registration/)
 
 SSC 2021 est la 16e conférence annuelle sur la simulation sociale. Elle aura lieu du 20 au 24 septembre 2021 *en ligne*. 
 
