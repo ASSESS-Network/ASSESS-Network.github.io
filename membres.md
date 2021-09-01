@@ -14,11 +14,14 @@ subtitle: membres du réseau ASSESS
 | Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
 | Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
+| Dugdall        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
+| Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
+| Paget        |     Nicolas      |         CIRAD, UMR INNOVATION|
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
 | Sadou       |     Loïc     |        INRAE, UR MIAT |
