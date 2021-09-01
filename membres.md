@@ -15,7 +15,7 @@ subtitle: membres du réseau ASSESS
 | Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
 | Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
-| Dugdall        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
+| Dugdale        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
