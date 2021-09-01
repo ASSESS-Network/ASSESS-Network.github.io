@@ -17,6 +17,7 @@ subtitle: membres du réseau ASSESS
 | Dugdall        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
+| Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
