@@ -9,6 +9,7 @@ subtitle: membres du réseau ASSESS
 | Adam        |     Carole      |         Univ Grenoble-Alpes, UMR LIG |
 | Banos        |     Arnaud      |        CNRS, UMR IDEES |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
+| Brugière        |     Arthur      |         IRD, UMI UMMISCO |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
 | Couture       |     Stéphane     |        INRAE, UR MIAT |
 | Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
