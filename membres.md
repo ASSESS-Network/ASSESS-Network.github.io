@@ -8,6 +8,7 @@ subtitle: membres du réseau ASSESS
 | :------------ | :-------------: | :-------------: |
 | Adam        |     Carole      |         Univ Grenoble-Alpes, UMR LIG |
 | Banos        |     Arnaud      |        CNRS, UMR IDEES |
+| Bah        |     Alassane      |        ESP-UCAD, UMI UMMISCO |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
 | Brugière        |     Arthur      |         IRD, UMI UMMISCO |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
@@ -20,6 +21,7 @@ subtitle: membres du réseau ASSESS
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
+| Laclef       |     Ellen     |        INRAE, UMR SELMET |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
@@ -35,3 +37,5 @@ subtitle: membres du réseau ASSESS
 | Thomopoulos       |     Rallou     |        INRAE, UMR IATE |
 | Villerd       |     Jean     |        INRAE, UMR LAE |
 | Verstaevel       |     Nicolas     |        Université Toulouse 1 Capitole, UMR IRIT |
+| Zahir       |     Jihad     |        Université Cadi Ayyad, UMI UMMISCO |
+| Zucker       |     Jean Daniel     |        IRD, UMI UMMISCO |
