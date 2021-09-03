@@ -31,6 +31,7 @@ subtitle: membres du réseau ASSESS
 | Sadou       |     Loïc     |        INRAE, UR MIAT |
 | Saqalli       |     Mehdi     |        CNRS, UMR GEODE |
 | Sicard       |     Vianney     |        INRAE, URM BIOEPAR |
+| Sklab       |     Youcef     |        IRD, UMI UMMISCO |
 | Taillandier       |     Franck     |        INRAE, URM RECOVER |
 | Taillandier       |     Patrick     |        INRAE, UR MIAT |
 | Therond       |     Olivier     |        INRAE, UMR LAE |
