@@ -7,6 +7,7 @@ subtitle: membres du réseau ASSESS
 | Nom	        |     Prénom     |      Institution |
 | :------------ | :-------------: | :-------------: |
 | Adam        |     Carole      |         Univ Grenoble-Alpes, UMR LIG |
+| Al Mouatamid | Youssef        |  Université Cadi Ayyad |
 | Banos        |     Arnaud      |        CNRS, UMR IDEES |
 | Bah        |     Alassane      |        ESP-UCAD, UMI UMMISCO |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
