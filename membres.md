@@ -26,6 +26,7 @@ subtitle: membres du réseau ASSESS
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
+| Ndiaye       |     Papa Ibrahima      |        Universersité cheikh ANTA Diop, UMI UMMISCO |
 | Paget        |     Nicolas      |         CIRAD, UMR INNOVATION|
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
