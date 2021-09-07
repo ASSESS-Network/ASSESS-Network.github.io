@@ -19,10 +19,12 @@ subtitle: membres du réseau ASSESS
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Dugdale        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
+| Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Laclef       |     Ellen     |        INRAE, UMR SELMET |
+| Lesueur       |     Jérémy     |        ENVT, UMR IHAP |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
