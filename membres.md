@@ -19,6 +19,7 @@ subtitle: membres du réseau ASSESS
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Dugdale        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
+| Gillet       |     Olivier     |        Université Rouen Normandie, UMR IDEES |
 | Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
@@ -40,6 +41,7 @@ subtitle: membres du réseau ASSESS
 | Taillandier       |     Patrick     |        INRAE, UR MIAT |
 | Therond       |     Olivier     |        INRAE, UMR LAE |
 | Thomopoulos       |     Rallou     |        INRAE, UMR IATE |
+| Tranouez       |     Pierrick     |        Université Rouen Normandie, LITIS |
 | Villerd       |     Jean     |        INRAE, UMR LAE |
 | Verstaevel       |     Nicolas     |        Université Toulouse 1 Capitole, UMR IRIT |
 | Zahir       |     Jihad     |        Université Cadi Ayyad, UMI UMMISCO |
