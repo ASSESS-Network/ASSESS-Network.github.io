@@ -25,6 +25,7 @@ subtitle: membres du réseau ASSESS
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Laclef       |     Ellen     |        INRAE, UMR SELMET |
+| Le Page       |     Christophe     |        CIRAD, UMR SENS |
 | Lesueur       |     Jérémy     |        ENVT, UMR IHAP |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
