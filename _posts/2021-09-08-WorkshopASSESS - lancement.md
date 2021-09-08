@@ -6,7 +6,7 @@ tags: [journée ASSESS]
 ---
 Le 14 septembre de 9h à 12h aura lieu en ligne la journée de lancement du réseau ASSESS. 
 
-Lien pour se connecter : https://us06web.zoom.us/j/83510409093?pwd=cEVvb1dMSDdTL1FSSkVOcU05dE1XQT09
+Lien pour se connecter : [https://us06web.zoom.us/j/83510409093?pwd=cEVvb1dMSDdTL1FSSkVOcU05dE1XQT09](https://us06web.zoom.us/j/83510409093?pwd=cEVvb1dMSDdTL1FSSkVOcU05dE1XQT09)
 
 Programme de la journée :
 * 9h-9h10 : Présentation du réseau (Patrick Taillandier)
