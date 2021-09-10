@@ -6,6 +6,7 @@ subtitle: membres du réseau ASSESS
 
 | Nom	        |     Prénom     |      Institution |
 | :------------ | :-------------: | :-------------: |
+| Amblard        |     Frédéric      |    Université Toulouse 1 Capitole, UMR IRIT |
 | Adam        |     Carole      |         Univ Grenoble-Alpes, UMR LIG |
 | Al Mouatamid | Youssef        |  Université Cadi Ayyad |
 | Banos        |     Arnaud      |        CNRS, UMR IDEES |
@@ -18,6 +19,7 @@ subtitle: membres du réseau ASSESS
 | Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Dugdale        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
+| Ferchiou        |     Ahmed      |         ENVT, UMR IHAP |
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
 | Gillet       |     Olivier     |        Université Rouen Normandie, UMR IDEES |
 | Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
@@ -25,6 +27,7 @@ subtitle: membres du réseau ASSESS
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Laclef       |     Ellen     |        INRAE, UMR SELMET |
+| Lashermes       |     Colin     |        INRAE, UMR RECOVER |
 | Le Page       |     Christophe     |        CIRAD, UMR SENS |
 | Lesueur       |     Jérémy     |        ENVT, UMR IHAP |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
@@ -32,6 +35,7 @@ subtitle: membres du réseau ASSESS
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
 | Ndiaye       |     Papa Ibrahima      |        Universersité cheikh ANTA Diop, UMI UMMISCO |
 | Paget        |     Nicolas      |         CIRAD, UMR INNOVATION|
+| Parisey        |     Nicolas      |         INRAE, UMR IGEPP|
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
 | Sadou       |     Loïc     |        INRAE, UR MIAT |
