@@ -15,12 +15,12 @@ Programme de la journée :
     * 9h15-9h35 : Guillaume Deffuant
     * 9h35-9h55 : Christophe Le Page
     * 9h55-10h15 : Olivier Therond
-    * 10h15-10h35 : Sébastien Rey-Coyrehourcq
-    * 10h35-10h55 : Benoit Gaudou
-* 10h55-11h05 : Pause
+    * 10h15-10h35 : Benoit Gaudou
+    * 10h35-10h50 : discussion
+* 10h50-11h05 : Pause
 * 11h05-12h :  Quel rôle pour le réseau ASSESS ?
     * 11h05-11h10 : Introduction de la session (Kevin Chapuis)
-    * 11h10-11h20 : Sébastien Rey-Coyrehourcq - présentation du réseau MAPS
+    * 11h10-11h20 : Benoit Gaudou/Sébastien Rey-Coyrehourcq - présentation du réseau MAPS
     * 11h20- 11h30 : Christophe Le Page - présentation des formations MISS-ABMS
     * 11h30 - 11h40 : Gauthier Quesnel - présentation du réseau RED
     * 11h40-11h55 : discussion sur la place d’ASSESS et rôle qu’il pourrait jouer
