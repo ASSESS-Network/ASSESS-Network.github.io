@@ -11,6 +11,7 @@ subtitle: membres du réseau ASSESS
 | Al Mouatamid | Youssef        |  Université Cadi Ayyad |
 | Banos        |     Arnaud      |        CNRS, UMR IDEES |
 | Bah        |     Alassane      |        ESP-UCAD, UMI UMMISCO |
+| Bommel       |     Pierre     |        CIRAD, UMR SENS |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
 | Brugière        |     Arthur      |         IRD, UMI UMMISCO |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
@@ -25,6 +26,8 @@ subtitle: membres du réseau ASSESS
 | Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
+| Jacquier        |     Alice      |         Univ Grenoble-Alpes, UMR LIG |
+| Kolaye       |     Gabriel Guilsou     |      Université de Maroua, UMA |
 | Krebs       |     Stéphane     |        INRAE, UMR BETA |
 | Laclef       |     Ellen     |        INRAE, UMR SELMET |
 | Lashermes       |     Colin     |        INRAE, UMR RECOVER |
