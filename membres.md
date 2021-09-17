@@ -16,7 +16,8 @@ subtitle: membres du réseau ASSESS
 | Brugière        |     Arthur      |         IRD, UMI UMMISCO |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
 | Couture       |     Stéphane     |        INRAE, UR MIAT |
-| Darcel       |     Nicolas     |        AgroParisTech, URM PNCA |
+| Darcel       |     Nicolas     |        AgroParisTech, UMR PNCA |
+| Deffuant       |     Guillaume     |        INRAE, UMR LISC |
 | Delay       |     Etienne     |        CIRAD, URM SENS |
 | Drogoul     |   Alexis   |      IRD, UMI UMMISCO|
 | Dugdale        |     Julie      |         Univ Grenoble-Alpes, UMR LIG |
@@ -35,17 +36,19 @@ subtitle: membres du réseau ASSESS
 | Lesueur       |     Jérémy     |        ENVT, UMR IHAP |
 | Lurette       |     Amandine     |        INRAE, UMR SELMET |
 | Mejean       |     Romain     |       Université Toulouse 2, UMR GEODE |
+| Moatty       |     Annabelle     |        INRAE, UMR RECOVER |
 | Müller       |     Jean-Pierre     |        CIRAD, UMR SENS |
 | Ndiaye       |     Papa Ibrahima      |        Universersité cheikh ANTA Diop, UMI UMMISCO |
 | Paget        |     Nicolas      |         CIRAD, UMR INNOVATION|
 | Parisey        |     Nicolas      |         INRAE, UMR IGEPP|
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
+| Plassin       |     Sophie     |        INRAE, UMR AGIR |
 | Sadou       |     Loïc     |        INRAE, UR MIAT |
 | Saqalli       |     Mehdi     |        CNRS, UMR GEODE |
-| Sicard       |     Vianney     |        INRAE, URM BIOEPAR |
+| Sicard       |     Vianney     |        INRAE, UMR BIOEPAR |
 | Sklab       |     Youcef     |        IRD, UMI UMMISCO |
-| Taillandier       |     Franck     |        INRAE, URM RECOVER |
+| Taillandier       |     Franck     |        INRAE, UMR RECOVER |
 | Taillandier       |     Patrick     |        INRAE, UR MIAT |
 | Therond       |     Olivier     |        INRAE, UMR LAE |
 | Thomopoulos       |     Rallou     |        INRAE, UMR IATE |
