@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journée ASSESS
-subtitle: journée de lancement du réseau ASSESS
+subtitle: journée de lancement du réseau ASSESS - lien youtube et présentations
 tags: [journée ASSESS]
 ---
 La journée de lancement du réseau ASSESS a eu lieu le 14 septembre de 9h à 12h. 
