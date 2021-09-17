@@ -54,6 +54,7 @@ subtitle: membres du réseau ASSESS
 | Thomopoulos       |     Rallou     |        INRAE, UMR IATE |
 | Tranouez       |     Pierrick     |        Université Rouen Normandie, LITIS |
 | Villerd       |     Jean     |        INRAE, UMR LAE |
+| Vernier       |     Camille     |        INRAE, UMR CBGP |
 | Verstaevel       |     Nicolas     |        Université Toulouse 1 Capitole, UMR IRIT |
 | Zahir       |     Jihad     |        Université Cadi Ayyad, UMI UMMISCO |
 | Zucker       |     Jean Daniel     |        IRD, UMI UMMISCO |
