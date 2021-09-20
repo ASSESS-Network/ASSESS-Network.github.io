@@ -25,6 +25,7 @@ subtitle: membres du réseau ASSESS
 | Gaudou        |     Benoit      |         Université Toulouse 1 Capitole, UMR IRIT |
 | Gillet       |     Olivier     |        Université Rouen Normandie, UMR IDEES |
 | Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
+| Grignard       |     Arnaud     |        MIT Media Lab - UCBL, UMR LIRIS |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Jacquier        |     Alice      |         Univ Grenoble-Alpes, UMR LIG |
