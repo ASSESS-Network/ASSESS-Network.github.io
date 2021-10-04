@@ -8,6 +8,7 @@ ASSESS est un réseau de recherche du département [MathNum](https://www.inrae.f
 Le but du réseau est de développer, fédérer et promouvoir les travaux sur la simulation à base d’agents en réunissant méthodologistes et utilisateurs de cette approche. Il est ouvert à tous les chercheurs, ingénieurs, post-doctorants , doctorants, étudiants et même utilisateurs non-académiques s’intéressant à cette approche de simulation quel que soit leur disciplinaire et leur institut de rattachement. 
 ### Animateurs du réseau
 * [Patrick Taillandier](https://miat.inrae.fr/site/Patrick_TAILLANDIER) (INRAE, UR MIAT)
+* [Alassane Bah](https://www.researchgate.net/profile/Alassane-Bah) (Université Cheikh Anta Diop de Dakar UCAD, UMI UMMISCO)
 * [Bruno Bonte](https://www.researchgate.net/profile/Bruno-Bonte) (INRAE, UMR G-EAU) 
 * [Kevin Chapuis](https://www.researchgate.net/profile/Kevin-Chapuis) (IRD, UMR Espace-Dev) 
 * [Alexis Drogoul](https://www.researchgate.net/profile/Alexis-Drogoul) (IRD, UMI UMMISCO) 
