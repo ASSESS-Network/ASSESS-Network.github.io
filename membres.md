@@ -13,6 +13,7 @@ subtitle: membres du réseau ASSESS
 | Bah        |     Alassane      |        ESP-UCAD, UMI UMMISCO |
 | Bommel       |     Pierre     |        CIRAD, UMR SENS |
 | Bonté        |     Bruno      |         INRAE, UMR G-EAU |
+| Bourceret        |     Amélie      |         INRAE, UMR EcoSys |
 | Brugière        |     Arthur      |         IRD, UMI UMMISCO |
 | Chapuis        |     Kevin      |         IRD, UMR Espace-Dev |
 | Couture       |     Stéphane     |        INRAE, UR MIAT |
