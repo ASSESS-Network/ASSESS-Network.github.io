@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Journée ASSESS
+title: Webinaire Ellen Laclef
 subtitle: 25 janvier 2022 - Webinaire Jeunes Chercheur(e)s - Ellen Laclef
 tags: [journée ASSESS]
 ---
 
 Le 25 janvier 2022 de 11h à 12h (heure de Paris) aura lieu le séminaire d'[Ellen Laclef](https://www.researchgate.net/profile/Ellen-Laclef)(INRAE, UMR SELMET):
 "La simulation à base d’agents pour aider à concevoir des systèmes d'élevage innovants utilisant des méthodes alternatives aux traitements hormonaux dans la gestion de la reproduction des ovins laitiers"
+
+Lien Zoom pour se connecter : [https://us06web.zoom.us/j/86912727835?pwd=Qk9SNlhZNGV6Mlh4dzV0dkFjaU1NZz09](https://us06web.zoom.us/j/86912727835?pwd=Qk9SNlhZNGV6Mlh4dzV0dkFjaU1NZz09)
 
 
 **Résumé :**
