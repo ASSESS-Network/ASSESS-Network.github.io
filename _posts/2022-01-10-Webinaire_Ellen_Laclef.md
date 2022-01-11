@@ -2,7 +2,7 @@
 layout: post
 title: Webinaire  Jeunes Chercheur(e)s
 subtitle: 25 janvier 2022 - Ellen Laclef
-tags: [journée ASSESS]
+tags: [Webinaire, Jeunes chercheur(e)s, Ellen Laclef]
 ---
 
 Le 25 janvier 2022 de 11h à 12h (heure de Paris) aura lieu le séminaire d'[Ellen Laclef](https://www.researchgate.net/profile/Ellen-Laclef) (INRAE, UMR SELMET) :
