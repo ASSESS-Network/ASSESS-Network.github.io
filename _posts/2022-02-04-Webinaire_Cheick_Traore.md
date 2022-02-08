@@ -5,7 +5,7 @@ subtitle: 22 février 2022 - Cheick Traoré
 tags: [Webinaire, Jeunes chercheur(e)s, Cheick Traoré]
 ---
 
-Le 22 février 2022 de 11h à 12h (heure de Paris) aura lieu le séminaire d'[Cheick Traoré](https://www.researchgate.net/profile/Cheick-Amed-Diloma-Gabriel-Traore) (Université Cheikh Anta DIOP) :
+Le 22 février 2022 de 11h à 12h (heure de Paris) aura lieu le séminaire de [Cheick Traoré](https://www.researchgate.net/profile/Cheick-Amed-Diloma-Gabriel-Traore) (Université Cheikh Anta DIOP) :
 "Modélisation à base d’agent de la transhumance au Sahel"
 
 Lien [Zoom](https://us06web.zoom.us/j/86912727835?pwd=Qk9SNlhZNGV6Mlh4dzV0dkFjaU1NZz09) pour se connecter
