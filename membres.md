@@ -28,6 +28,7 @@ subtitle: membres du réseau ASSESS
 | Gontier       |     Philippe     |        INRAE, SA, UMR BIOEPAR |
 | Grignard       |     Arnaud     |        MIT Media Lab - UCBL, UMR LIRIS |
 | Grillot       |     Myriam     |        INRAE, UMR AGIR |
+| Huet        |     Sylvie    |        INRAE, UMR LISC |
 | Huynh        |     Quang Nghi     |        Université de Can Tho, Vietnam |
 | Jacquier        |     Alice      |         Univ Grenoble-Alpes, UMR LIG |
 | Kolaye       |     Gabriel Guilsou     |      Université de Maroua, UMA |
@@ -43,11 +44,13 @@ subtitle: membres du réseau ASSESS
 | Ndiaye       |     Papa Ibrahima      |        Universersité cheikh ANTA Diop, UMI UMMISCO |
 | Paget        |     Nicolas      |         CIRAD, UMR INNOVATION|
 | Parisey        |     Nicolas      |         INRAE, UMR IGEPP|
+| Péré        |     Marielle      |         INRIA, IRCAN (team Biocore)|
 | Picault        |     Sébastien      |         INRAE, UMR BIOEPAR |
 | Piou       |     Cyril     |        CIRAD, UMR CBGP |
 | Plassin       |     Sophie     |        INRAE, UMR AGIR |
 | Sadou       |     Loïc     |        INRAE, UR MIAT |
 | Saqalli       |     Mehdi     |        CNRS, UMR GEODE |
+| Scriban       |     Arthur	     |        CIRAD, UMR SELMET |
 | Sicard       |     Vianney     |        INRAE, UMR BIOEPAR |
 | Sklab       |     Youcef     |        IRD, UMI UMMISCO |
 | Taillandier       |     Franck     |        INRAE, UMR RECOVER |
