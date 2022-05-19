@@ -8,7 +8,7 @@ tags: [Webinaire, Jeunes chercheur(e)s, Laurie Dunn]
 Le 26 Avril 2022 de 11h à 12h (heure de Paris) aura lieu le séminaire de [Laurie Dunn](https://www.researchgate.net/profile/Laurie-Dunn) (INRAE, UMR AGIR) :
 "Un système multi-agents pour simuler les dynamiques de la biomasse microbienne des sols en fonction des pratiques agricoles à l’échelle d’un paysage"
 
-Lien Zoom : [https://inrae-fr.zoom.us/j/5903461163](https://inrae-fr.zoom.us/j/5903461163)
+Lien Youtube vers la présentation : [https://youtu.be/mx0pOSl5Er4](https://youtu.be/mx0pOSl5Er4)
 
 
 **Résumé :**
